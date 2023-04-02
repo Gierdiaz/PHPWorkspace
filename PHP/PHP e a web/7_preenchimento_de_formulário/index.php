@@ -17,11 +17,11 @@ $user = [
 ];
 
 if($user) {
-    $name       = $user['josh'];
-    $age        = $user['35'];
-    $city       = $user['New York'];
-    $email      = $user['josh@exemple.org'];
-    $profession = $user['programmer'];
+    $name       = $user['name'];
+    $age        = $user['age'];
+    $city       = $user['city'];
+    $email      = $user['email'];
+    $profession = $user['profession'];
 }
 ?>
 
