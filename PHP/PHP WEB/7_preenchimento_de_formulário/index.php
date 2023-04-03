@@ -11,7 +11,7 @@ $user = [
     'name'       => 'josh',
     'age'        => '35',
     'city'       => 'New York',
-    'email'      => 'josh@exemple.org',
+    'email'      => 'josh@example.org',
     'profession' => 'programmer'
   
 ];
