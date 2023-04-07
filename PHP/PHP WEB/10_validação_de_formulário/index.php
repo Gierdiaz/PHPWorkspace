@@ -10,7 +10,7 @@
 */
 $validation = [];
 
-if(($_POST) > 0) {
+if(($_POST)) {
     $validation = [];
 
     if(empty($_POST['name'])) {
